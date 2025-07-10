@@ -1,1 +1,1 @@
-# sw-renderer
+# JFrame Software Renderer
